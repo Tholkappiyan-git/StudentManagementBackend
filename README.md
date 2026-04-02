@@ -5,10 +5,10 @@ Java + MySQL Console Application | Actively Building
 ## Progress
 ✅ Repository created
 ✅ Database schema — Today
-🔄 Add Student INSERT — Tomorrow
-🔄 View / Search Students — Day 3
-🔄 Update / Delete — Day 4-5
-🔄 JUnit Tests — Day 7
+✅ Add Student INSERT — **LIVE WORKING!** 🎉
+🔄 View / Search Students - Tomorrow
+🔄 Update / Delete - upcomming days
+🔄 JUnit Tests 
 
 ## Tech Stack
 Java | MySQL | JDBC | JUnit | Git
