@@ -17,6 +17,6 @@ Console-based backend system performing full CRUD
 operations on student records using Java and MySQL via JDBC.
 
 ## Setup
-Coming soon after after project completion
+Coming soon after project completion
 
 Last updated: June 4, 2026
