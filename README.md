@@ -4,11 +4,11 @@ Java + MySQL Console Application | Actively Building
 
 ## Progress
 ✅ Repository created
-✅ Database schema — Today
-✅ Add Student INSERT — **LIVE WORKING!** 🎉
-🔄 View / Search Students - Tomorrow
+✅ Database schema done
+✅ Add Student INSERT —  WORKING!
+🔄 View / Search Students - In Progress
 🔄 Update / Delete - upcomming days
-🔄 JUnit Tests 
+🔄 JUnit Tests - coming soon
 
 ## Tech Stack
 Java | MySQL | JDBC | JUnit | Git
@@ -18,6 +18,6 @@ Console-based backend system performing full CRUD
 operations on student records using Java and MySQL via JDBC.
 
 ## Setup
-Coming soon after Day 3
+Coming soon after after project completion
 
-Last updated: March 25, 2026
+Last updated: June 4, 2026
