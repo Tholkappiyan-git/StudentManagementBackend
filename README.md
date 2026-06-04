@@ -5,9 +5,8 @@ Java + MySQL Console Application | Actively Building
 ## Progress
 ✅ Repository created
 ✅ Database schema done
-✅ Add Student INSERT —  WORKING!
-🔄 View / Search Students - In Progress
-🔄 Update / Delete - upcomming days
+✅ Add Student INSERT —  In Progress
+🔄 View / Search / Update / Delete Students - upcoming days
 🔄 JUnit Tests - coming soon
 
 ## Tech Stack
