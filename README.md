@@ -5,9 +5,11 @@ Java + MySQL Console Application | Actively Building
 ## Progress
 ✅ Repository created
 ✅ Database schema done
-✅ Add Student INSERT —  In Progress
-🔄 View / Search / Update / Delete Students - upcoming days
-🔄 JUnit Tests - coming soon
+✅ Add Student — working
+✅ View All Students — working
+✅ Search Student — working
+✅ Update Marks — working
+✅ Delete Student — working
 
 ## Tech Stack
 Java | MySQL | JDBC | JUnit | Git
