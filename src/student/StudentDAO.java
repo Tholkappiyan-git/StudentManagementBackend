@@ -15,7 +15,7 @@ public class StudentDAO {
             ps.setString(3, s.getBranch());
             ps.setInt(4, s.getMarks());
              ps.executeUpdate();
-            System.out.println("✅ Student added successfully!");
+            System.out.println("Student added successfully!");
 
         } catch (Exception e) {
 
