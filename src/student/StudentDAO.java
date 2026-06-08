@@ -87,7 +87,7 @@ public class StudentDAO {
             ps.setString(2, rollNumber);
             int rows = ps.executeUpdate();
             if (rows > 0)
-                System.out.println("✅ Marks updated successfully!");
+                System.out.println(" Marks updated successfully!");
             else
                 System.out.println("Student not found!");
         } catch (Exception e) {
@@ -106,7 +106,7 @@ public class StudentDAO {
             ps.setString(1, rollNumber);
             int rows = ps.executeUpdate();
             if (rows > 0)
-                System.out.println("✅ Student deleted successfully!");
+                System.out.println(" Student deleted successfully!");
             else
                 System.out.println("Student not found!");
             
