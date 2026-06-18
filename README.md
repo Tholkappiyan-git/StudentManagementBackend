@@ -19,6 +19,6 @@ Console-based backend system performing full CRUD
 operations on student records using Java and MySQL via JDBC.
 
 ## Setup
-Coming soon after project completion
+Coming soon after this project completion by implementing Springboot and RestApi.
 
 Last updated: June 4, 2026
